@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# OS/system files
+.DS_Store
+
+# Chroma vector DB and SQLite files (auto-generated, large)
+# chroma_db/
+# *.sqlite3
+
+# Data files (e.g., local PDFs or user uploads, optional)
+#data/
+
+# Logs or runtime artifacts (optional)
+*.log
+*.tmp
+
+# Environment/config secrets (if you use them)
+.env

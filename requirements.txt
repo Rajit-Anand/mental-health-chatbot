@@ -1,0 +1,9 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+langchain>=0.0.148
+langchain_groq
+langchain_core
+langchain_community
+pypdf
+chromadb
+sentence_transformers
